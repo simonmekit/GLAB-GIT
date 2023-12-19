@@ -1,2 +1,4 @@
 Hello first line!
 This is the second line.
+
+My new text in the new branch.
